@@ -155,7 +155,7 @@ public class Practica6 extends java.awt.Frame {
             }
         }
         
-        // Comentario para el examen.
+        // Comentario para el examen
     }//GEN-LAST:event_ControlBotonGenerar
 
     private void tAddActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_tAddActionPerformed
