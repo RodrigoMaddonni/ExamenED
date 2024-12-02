@@ -9,7 +9,7 @@
  * @author victor
  */
 public class Practica6 extends java.awt.Frame {
-
+        
     /**
      * Creates new form Practica6
      */
@@ -154,6 +154,8 @@ public class Practica6 extends java.awt.Frame {
                     lDerecha.add(lIzquierda.getItem(i)+" 2 ");
             }
         }
+        
+        // Comentario para el examen.
     }//GEN-LAST:event_ControlBotonGenerar
 
     private void tAddActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_tAddActionPerformed
